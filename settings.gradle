@@ -1,0 +1,3 @@
+rootProject.name = 'javaCore5'
+include 'src'
+
